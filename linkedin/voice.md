@@ -42,45 +42,14 @@ Comprobar con `python3 linkedin/formula_es.py borrador.txt` (tiene que dar OK, <
 - Empezar muchas líneas por "Y" o "Pero".
 - El ritmo "gurú": afirmación, concesión, giro, lista, reencuadre, moraleja.
 
-## Mi sello (lo que me hace reconocible)
+## Mi sello
 
-**Posicionamiento:** Ángel Sánchez · GTM con criterio. **Lema:** "Primero el criterio, después la herramienta."
-**Papel:** el estratega que baja a tierra. Traduzco entre negocio y tecnología.
-
-### Cómo pienso: mis cuatro miradas
-
-1. **La distinción.** Mi movimiento de fondo: separar dos cosas que tratamos como una sola. Interés / oportunidad. Lead / oportunidad. Dónde (ICP) / cuándo (contexto). Hacer / decidir. Lo que registra el CRM / lo que cambia en la realidad. Cada post separa UNA pareja, contada en prosa y no como eslogan "No X. Y.".
-2. **Subir un peldaño.** Ante cualquier herramienta, táctica o dato, pregunto: ¿qué decisión mejora esto? Recorro la escalera Negocio → Decisión → Herramienta → Acción hacia arriba.
-3. **Mirar desde el negocio del cliente.** La oportunidad pertenece a su negocio, no a nuestro sistema. Pregunta de cabecera: ¿qué está pasando ahora en esa cuenta?
-4. **Honestidad intelectual.** Digo lo que no tengo resuelto y dónde falla mi propia idea. Nada de certezas gratis.
-
-### Cómo hablo
-
-- **Lenguaje de negocio, no de herramienta:** decisión, coste, margen, prioridad, capacidad, riesgo. Las herramientas aparecen como medio, nunca como protagonistas.
-- **Ejemplos del mundo físico:** temporada alta, obras, aperturas, presupuestos anuales, un cambio de responsable. Es mi terreno y casi nadie en GTM habla desde ahí.
-- **Mis términos acuñados**, siempre escritos igual: *el cuándo*, *estado de la cuenta*, *la escalera* (Negocio → Decisión → Herramienta → Acción), *entrar / crecer / proteger*, *momentum*. Al menos uno por post.
-- **Tono:** sereno, preciso, sin prisa. Ni gurú ni vendedor. Una sola frase fuerte por post, integrada en un párrafo y no aislada como póster.
-- **Cierre:** algo abierto, como una pregunta concreta o lo que todavía no sé.
-
-### Sello visual
-
-Las imágenes y los diagramas usan la identidad de mi keynote para que los posts y la ponencia se reconozcan como una sola cosa: fondo casi negro #05070A, texto #F3F1EC, acento aqua #74D6FF, alerta #FF5B3E; tipografías Schibsted Grotesk (titulares), Newsreader (citas) e IBM Plex Mono (etiquetas). Diagramas sencillos, con un solo concepto.
-
-### Test de reconocimiento (cada borrador, mínimo 4 de 5)
-
-1. ¿Separa dos cosas que solemos confundir?
-2. ¿Sube de la herramienta o táctica a la decisión que mejora?
-3. ¿Hay una escena de negocio concreta?
-4. ¿Usa al menos uno de mis términos?
-5. ¿Deja algo abierto con honestidad?
-
-Y además tiene que pasar `formula_es.py` con OK. El sello está en el pensamiento, no en tics de formato.
+En construcción. La versión genérica ("Primero el criterio, después la herramienta", "el estratega que baja a tierra") fue rechazada por básica y por sonar a IA. No usarla.
 
 ## Mi territorio
 
 **GTM con criterio: primero la estrategia, después las herramientas.** Tenemos más tecnología que nunca (IA, agentes, enrichment, automatización) y la mayoría la usamos como usuarios: hacemos más, más rápido. Mi territorio es el cambio de mentalidad: pasar de usar herramientas a sacarles partido en decisiones que se notan en el negocio. Y bajarlo a tierra, de la estrategia a la herramienta, la acción y el truco concreto.
 
-- **Frase de territorio:** "La IA reduce el coste de hacer. No el de decidir mal." Variantes: "Primero estrategia, después tecnología." / "No conectar herramientas: conectar cambios del mercado con decisiones de negocio."
 - **Mi escalera (el marco que repito):** Negocio → Decisión → Herramienta → Acción. Cada post vive en un peldaño, pero siempre se conecta con el de arriba. Un truco sin la decisión que mejora no se publica.
 - **Por qué es mío y no de otro:** los referentes hablan desde el SaaS de EE. UU. Yo hablo desde negocio físico en España (temporadas, obras, aperturas, presupuestos anuales), donde la tecnología solo vale si encaja con cómo funciona el negocio real. El sector se nombra en genérico, sin empresa, clientes ni datos internos.
 - **Vocabulario propio, siempre el mismo:** criterio, impacto de negocio, decisión, el cuándo, momentum, estado de la cuenta, entrar / crecer / proteger, orquestar.
