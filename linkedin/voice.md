@@ -44,12 +44,21 @@ Comprobar con `python3 linkedin/formula_es.py borrador.txt` (tiene que dar OK, <
 
 ## Mi territorio
 
-**El cuándo del GTM.** Todo el mundo habla de a quién venderle (ICP, listas, datos) y qué decirle (copy, IA, personalización). Yo hablo de cuándo: leer el estado del negocio del cliente y decidir si ahora es el momento.
+**GTM con criterio: primero la estrategia, después las herramientas.** Tenemos más tecnología que nunca (IA, agentes, enrichment, automatización) y la mayoría la usamos como usuarios: hacemos más, más rápido. Mi territorio es el cambio de mentalidad: pasar de usar herramientas a sacarles partido en decisiones que se notan en el negocio. Y bajarlo a tierra, de la estrategia a la herramienta, la acción y el truco concreto.
 
-- **Frase de territorio:** "El quién y el qué pueden ser perfectos y llegar a destiempo."
-- **Por qué es mío y no de otro:** los referentes de GTM hablan desde el SaaS de EE. UU. Yo hablo desde negocio físico en España, con temporadas, obras, aperturas, presupuestos anuales y ciclos que no cambian porque lo diga un CRM. Ese contraste es mi ventaja. (El sector se nombra en genérico, sin empresa, clientes ni datos internos.)
-- **Vocabulario propio, siempre el mismo:** momentum, el cuándo, estado de la cuenta, leer la cuenta, ventana, entrar / crecer / proteger. Repetir los mismos términos es lo que construye territorio.
-- **De qué NO hablo:** herramientas por sí mismas, growth hacks, motivación, productividad personal.
+- **Frase de territorio:** "La IA reduce el coste de hacer. No el de decidir mal." Variantes: "Primero estrategia, después tecnología." / "No conectar herramientas: conectar cambios del mercado con decisiones de negocio."
+- **Mi escalera (el marco que repito):** Negocio → Decisión → Herramienta → Acción. Cada post vive en un peldaño, pero siempre se conecta con el de arriba. Un truco sin la decisión que mejora no se publica.
+- **Por qué es mío y no de otro:** los referentes hablan desde el SaaS de EE. UU. Yo hablo desde negocio físico en España (temporadas, obras, aperturas, presupuestos anuales), donde la tecnología solo vale si encaja con cómo funciona el negocio real. El sector se nombra en genérico, sin empresa, clientes ni datos internos.
+- **Vocabulario propio, siempre el mismo:** criterio, impacto de negocio, decisión, el cuándo, momentum, estado de la cuenta, entrar / crecer / proteger, orquestar.
+- **De qué NO hablo:** reviews de herramientas sin contexto, growth hacks sueltos, motivación, productividad personal, "10 prompts para…".
+
+### Pilares y reparto
+
+| Pilar | Qué cuento | Peso |
+|---|---|---|
+| 1. Mentalidad | De tech user a impacto: por qué hacer más no es decidir mejor; estrategia antes que stack | 40% |
+| 2. El cuándo | Mi idea insignia y la prueba de la tesis: momentum, estado de la cuenta, cuándo no tocar nada | 30% |
+| 3. Bajar a tierra | Herramientas, acciones y trucos, siempre subiendo a la decisión que mejoran | 30% |
 
 ## Mi estilo: lo bueno de cada referente, sin sus tics
 
