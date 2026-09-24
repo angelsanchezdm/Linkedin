@@ -19,7 +19,7 @@ VIE 2   solo interacción
 ## Semana del 5 oct
 
 LUN 5   solo interacción
-MAR 6   8:30  OFERTA    anuncio              - La ponencia del 13 (draft-02). Imagen: portada de la keynote o cartel oficial de WaLead Day One de WaLead, Madrid. Se puede nombrar Culligan y WaLead. Falta: hora, sala, enlace de registro. Enlace en el primer comentario.
+MAR 6   8:30  OFERTA    anuncio              - La ponencia del 13 (draft-02). Post de 2 imágenes: 1) cartel oficial de Day One (versión con MI CHARLA en la tarjeta de Ángel), 2) imagenes/2026-10-06_anuncio-dayone.png. Enlace walead.ai/day-one en el primer comentario Day One de WaLead, Madrid. Se puede nombrar Culligan y WaLead. Teatro Sofía, 13:00, walead.ai/day-one. Enlace en el primer comentario.
 MIÉ 7   solo interacción
 JUE 8   8:30  OPINIÓN   #11 Mito             - Más rápido no es más a tiempo (draft-03). Imagen: conversación genérica agente / cliente
 VIE 9   solo interacción
