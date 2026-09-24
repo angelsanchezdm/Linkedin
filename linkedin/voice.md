@@ -6,9 +6,10 @@ Idioma de publicación: **español de España**. Todas las skills escriben en es
 ## Quién soy
 
 - **Nombre:** Ángel Sánchez
-- **Qué hago, en una frase:** {{completar}}. Por los posts: pienso y construyo sistemas GTM / outbound basados en señales y contexto de cuenta, no en listas.
+- **Cargo:** Commercial Growth & GTM Lead en Culligan Water Spain.
+- **Qué hago, en una frase:** lidero iniciativas transversales de Commercial Growth y Go-to-Market para generar nuevas oportunidades de negocio, desarrollar canales comerciales y mejorar la conversión, la productividad y la eficiencia.
 - **Para quién escribo:** responsables de GTM, ventas, marketing y RevOps en B2B (heads of sales, growth, SDR managers, founders) que ya hacen outbound con herramientas modernas y no ven resultados.
-- **Qué vendo:** {{completar}}
+- **Qué vendo:** nada en los posts. Escribo como profesional de GTM que comparte criterio, no como empresa. Sin producto, sin CTA comercial.
 
 ## Cómo sueno
 
@@ -45,15 +46,18 @@ Idioma de publicación: **español de España**. Todas las skills escriben en es
 
 ## Fuera de límites
 
-- **Temas de los que no publico:** {{completar}}
-- **Clientes o cifras que no puedo nombrar:** {{completar}}
-- **Afirmaciones que no puedo hacer:** {{completar}}
+- **Temas de los que no publico:** nada interno de Culligan: estrategia, resultados, iniciativas, equipos, procesos, herramientas, cifras ni proyectos. Culligan no aparece en los posts.
+- **Clientes o cifras que no puedo nombrar:** ningún cliente real, ni con nombre ni con detalles que permitan identificarlo o dar pistas a la competencia (sector + región + tamaño + momento juntos). Ninguna cifra propia.
+- **Afirmaciones que no puedo hacer:** nada que parezca "en mi empresa hicimos X y conseguimos Y". Nada que destape información interna. Ante la duda, fuera.
 
 ## Pruebas que puedo usar
 
-Datos reales, resultados e historias que firmo con mi nombre. Vacío = los borradores llevarán `{{tu dato}}`.
+No hay pruebas internas: no se usan. El material permitido es externo:
 
-- {{completar}}
+- Casos, sectores y estrategias de otras empresas que sean públicos (con fuente si se cita un dato).
+- Escenarios hipotéticos presentados como tales ("Imagina dos empresas…"), como ya hago en mis posts.
+- Análisis conceptual y marcos propios (Cuenta → cambio → señales → ventana → contacto → conversación).
+- Nunca inventar métricas ni presentar un caso hipotético como real. Si un dato externo hace falta y no está verificado, dejar `{{dato + fuente}}`.
 
 ---
 
