@@ -1,6 +1,6 @@
 # voice.md
 
-Perfil de voz inferido de tres posts propios (GTM, lead vs. señales, ICP vs. timing).
+Perfil de voz. Las posiciones salen de tres posts escritos con IA; el estilo NO (ver "Cómo sueno").
 Idioma de publicación: **español de España**. Todas las skills escriben en español salvo que se pida otra cosa.
 
 ## Quién soy
@@ -13,28 +13,34 @@ Idioma de publicación: **español de España**. Todas las skills escriben en es
 
 ## Cómo sueno
 
-- **Posts de referencia:** los tres de abajo, al final del archivo.
-- **Registro:** reflexivo, analítico, sereno. Pienso en voz alta. Nunca grito, nunca vendo en el post.
-- **Hedging honesto:** "Creo que", "No creo que", "quizá", "Eso me hace pensar que", "Yo empezaría". Opino en primera persona, sin sentar cátedra.
-- **"Nosotros" inclusivo:** "hemos utilizado", "llevamos años", "acabamos convirtiendo". Me incluyo en el problema que critico.
-- **Palabras que sí uso:** GTM, ICP, lead, funnel, CRM, outbound, señales, ventana de compra, contexto, cuenta, decisor, secuencia, enrichment, intent data, scoring, "tiene sentido", "bastante", "normalmente", "absolutamente", "de forma sistemática", "por qué ahora".
-- **Anglicismos:** sí, los del sector sin traducir ni cursiva (GTM, ICP, lead, enrichment, webhooks, SDR, copy). Nada de anglicismos gratuitos fuera de la jerga.
-- **Palabras que nunca uso:** jerga de gurú y hype ("game-changer", "brutal", "disruptivo", "el secreto", "nadie te cuenta", "hack"), motivacional, "¿Qué opináis?", "¿Estás de acuerdo?".
-- **Frases:** cortas, una idea por línea. Mucho espacio en blanco. Párrafos de una sola frase.
-- **Listas:** sin viñetas. Las enumero como frases sueltas, cada una en su línea ("Sector correcto." / "Tamaño de empresa correcto."), o en paralelo anafórico ("Ha entrado un nuevo responsable." / "Ha abierto cinco ubicaciones.").
-- **Flechas:** uso "→" para modelos y flujos (Lista → contacto → mensaje). Es mío, no lo quites.
-- **Estructura típica:**
-  1. Afirmación de apertura que desafía una premisa aceptada.
-  2. Concesión: por qué la premisa tenía sentido.
-  3. El giro: "El problema es que..." / "Pero hay una pregunta bastante más incómoda:".
-  4. Ejemplos concretos de cambios en empresas (nuevo director comercial, entrada en Portugal, ronda, cinco ubicaciones).
-  5. Reencuadre conceptual: separo dos preguntas o dos problemas distintos.
-  6. Cierre en dos frases paralelas y cortas ("El ICP te dice dónde mirar. / El contexto te dice cuándo.").
-- **Cierre:** una conclusión aforística, no una pregunta. Sin CTA, sin hashtags.
-- **Longitud:** larga, 1.500-2.200 caracteres. Me la gano con ritmo, no con relleno.
-- **Tacos:** no.
-- **Emoji:** nunca.
-- **Números:** concretos cuando los hay (18 meses, cinco ubicaciones, tres años). Sin métricas inventadas.
+**Importante:** los tres posts de abajo NO son mi voz. Los escribió una IA imitando a Jacco (numera, crea categorías, listas), Kyle Poyar (bloques numerados de análisis) y Sangram (listas y contrastes agresivos). Sirven para las **ideas y posiciones**, nunca como modelo de estilo. Si un borrador se parece a ellos en forma, está mal.
+
+Mientras no haya textos reales míos (emails, notas, audios transcritos), escribir así:
+
+- **Idioma:** español de España, con "vosotros". Jerga del sector sin traducir (GTM, ICP, lead, outbound, SDR) pero sin amontonarla.
+- **Párrafos de verdad:** 2-4 frases, de longitudes distintas. Como mucho una línea suelta por post, y solo si pesa.
+- **Una escena concreta mejor que una lista.** Si salen tres ejemplos, van en una frase con comas, no en tres líneas.
+- **Pensar en voz alta:** reconocer lo que no tengo resuelto, una duda abierta, un matiz. Paréntesis y alguna subordinada larga están bien.
+- **Primera persona real** ("llevo semanas dándole vueltas", "tengo la sensación"), pero sin inventar anécdotas: si hace falta una historia, pedírmela.
+- **Cierre:** una pregunta concreta que solo este post puede hacer, o una frase normal. Nunca un aforismo en paralelo.
+- **Tacos:** no. **Emoji:** no. **Hashtags:** no.
+- **Longitud:** 900-1.400 caracteres.
+
+### Prohibido (tics de fórmula IA en español)
+
+Comprobar con `python3 linkedin/formula_es.py borrador.txt` (tiene que dar OK, < 25):
+
+- Posts hechos de párrafos de una sola frase.
+- Listas de fragmentos en líneas sueltas ("Sector correcto. / Tamaño correcto. / Geografía correcta.").
+- Anáforas en cascada ("Ha entrado… / Ha abierto… / Ha recibido…").
+- Contrastes "No X. Y." / "No por qué encaja. Por qué ahora." / "no es X, sino Y" / "No es que… Es que…".
+- Frases-bisagra: "El problema es que…", "Pero hay una pregunta bastante más incómoda:", "Parece una diferencia pequeña. No lo es.", "Y ahí creo que…".
+- Líneas que terminan en dos puntos para anunciar la siguiente.
+- Cierre en dos frases paralelas ("El ICP te dice dónde mirar. / El contexto te dice cuándo.").
+- Cadenas de flechas (A → B → C) salvo que sea un diagrama de verdad.
+- Intensificadores: absolutamente, completamente, muchísimo, realmente, enorme, simplemente, clave.
+- Empezar muchas líneas por "Y" o "Pero".
+- El ritmo "gurú": afirmación, concesión, giro, lista, reencuadre, moraleja.
 
 ## Mis posiciones
 
@@ -63,11 +69,11 @@ No hay pruebas internas: no se usan. El material permitido es externo:
 
 ## Nota para /li-human
 
-El detector (`detect.py`) está calibrado para inglés. En español penaliza VOICE (cuenta contracciones y pronombres ingleses, que en español no existen o se omiten) y su léxico de slop es inglés. Mis propios posts puntúan 34-43 "FLAGGED". Para mis textos: usar `humanize.py` para limpiar huellas tipográficas (guion largo, comillas curvas, caracteres invisibles), fiarse de FINGERPRINT y BURSTINESS, y no reescribir para subir la puntuación global. SPECIFICITY baja sí es una pista útil: añadir un caso o dato real si lo hay.
+`detect.py` está calibrado para inglés (en español penaliza VOICE y su léxico es inglés). Usar `humanize.py` solo para limpiar huellas tipográficas y `linkedin/formula_es.py` para la estructura. No reescribir para subir la puntuación de `detect.py`.
 
 ---
 
-## Posts de referencia
+## Posts de referencia: SOLO ideas, NO estilo (escritos por IA)
 
 ### Post 1
 
