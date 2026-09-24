@@ -7,5 +7,5 @@ Skills live in `.claude/skills/li-*` and load automatically when Claude Code run
 `/li-post`, `/li-comment`, `/li-reply`, `/li-profile`, `/li-plan`, `/li-human`,
 `/li-carousel`, `/li-repurpose`, `/li-dm`, `/li-inbox`, `/li-audit`.
 
-Before first use, fill in `templates/voice.md` and copy it to `~/.claude/linkedin/voice.md`
-(or paste three of your past posts into `/li-post` and it will write that file for you).
+Voice profile: `linkedin/voice.md` (copy to `~/.claude/linkedin/voice.md` in each new session:
+`mkdir -p ~/.claude/linkedin && cp linkedin/voice.md ~/.claude/linkedin/`).
