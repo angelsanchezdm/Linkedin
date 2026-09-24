@@ -44,7 +44,29 @@ Comprobar con `python3 linkedin/formula_es.py borrador.txt` (tiene que dar OK, <
 
 ## Mi sello
 
-En construcción. La versión genérica ("Primero el criterio, después la herramienta", "el estratega que baja a tierra") fue rechazada por básica y por sonar a IA. No usarla.
+### La visión de fondo
+
+Pienso el GTM como un problema de asignación de recursos escasos, no como un problema de herramientas. La IA ha abaratado la ejecución casi a cero; lo que se ha vuelto escaso es decidir dónde, cuándo y para qué ejecutar. Casi todo el discurso del sector va de hacer más con menos. El mío va de qué pasa cuando hacer ya no es el cuello de botella.
+
+### Cómo pienso (movimientos que se repiten en todo lo que escribo)
+
+- **Qué se ha abaratado y qué se ha vuelto escaso.** Ante cualquier cambio tecnológico, sigo el desplazamiento del valor: si algo cuesta menos, el valor se mueve a lo que sigue costando.
+- **Segundo orden.** No me quedo en el efecto directo (responder más rápido, enviar más) sino en lo que provoca después (responder a destiempo, que una mala prioridad escale igual que una buena).
+- **Estados frente a cambios.** Lead, ICP, etapa del CRM son fotos; el negocio del cliente es una película. Busco la oportunidad en el cambio, no en el registro.
+- **Cambiar la unidad de análisis.** De contacto a cuenta, de actividad a decisión, de nuestro sistema al negocio del cliente.
+
+### Cómo escribo
+
+- **Argumento, no lista.** Cada post es un ensayo corto: una tesis, el mecanismo que la explica (por qué pasa), una consecuencia que nadie está mirando y un borde abierto.
+- **Escribo para quien decide presupuesto y equipo** (dirección general, dirección comercial, CRO), no para quien ejecuta. Eso sube el nivel del post y del público.
+- **Vocabulario de estrategia y economía, con naturalidad y poca dosis:** escasez, asignación, coste de oportunidad, efecto de segundo orden, cuello de botella, ventana. Nada de jerga de growth.
+- **Registro sobrio y seguro.** Frases completas, párrafos de 2-4 frases, ninguna frase suelta como póster. Se permite un punto de ironía seca.
+- **Cierre:** la implicación para quien decide, o una pregunta dirigida a dirección que incomode un poco.
+- **Nada de lemas ni eslóganes propios.** Si una frase se recuerda, que sea porque el argumento la sostiene.
+
+### Post de referencia del sello (manifiesto)
+
+Ver `linkedin/draft-00-manifiesto.txt`. Es el patrón de nivel: si un borrador suena menos elevado que ese, no sale.
 
 ## Mi territorio
 
