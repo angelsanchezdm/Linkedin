@@ -1,11 +1,17 @@
-Cada vez que una tecnología abarata algo, conviene preguntarse qué se vuelve escaso a cambio. En GTM casi nadie se está haciendo esa pregunta.
+Hace dos años, investigar una cuenta y escribirle un buen mensaje le llevaba a un SDR media mañana.
 
-La IA ha llevado el coste de ejecutar muy cerca de cero. Investigar una cuenta, redactar un mensaje, montar una secuencia o contestar en el mismo minuto eran tareas que hace dos años se comían horas del equipo y hoy cuestan céntimos. La conversación se ha quedado ahí, en cuánto más podemos hacer con la misma gente.
+Hoy un agente lo hace en un minuto y por unos céntimos.
 
-Lo que me parece más interesante está en el otro lado de la balanza. Cuando ejecutar deja de ser el cuello de botella, lo escaso pasa a ser la decisión de dónde, cuándo y para qué ejecutar. Esa decisión no se ha abaratado en absoluto, porque sigue dependiendo de entender en qué momento está el negocio del cliente, y eso ningún enrichment te lo da hecho.
+Casi todo lo que leo sobre esto va de lo mismo, de cuánto más podemos hacer con el mismo equipo.
 
-Hay además un efecto de segundo orden que creo que se está subestimando. Antes una mala prioridad tenía un techo natural, el equipo no daba para más. Ese techo ha desaparecido, de modo que un error de criterio se ejecuta hoy a la misma escala que un acierto. Miles de mensajes impecables enviados a las cuentas equivocadas, o en el momento equivocado, siguen quemando mercado aunque salgan baratos.
+Yo le doy vueltas a otra cosa. Si hacer ya casi no cuesta, ¿qué es lo que sigue costando?
 
-Por eso la pregunta que tendría que hacerse un comité de dirección ha cambiado. Durante años fue cuánta capacidad comercial podía añadir. Ahora es quién decide dónde se aplica esa capacidad y con qué información lo hace.
+Para mí, decidir bien. A quién ir, en qué momento y para qué. Eso no lo ha abaratado ninguna herramienta, porque depende de entender qué está pasando en el negocio del cliente.
 
-Sospecho que en muchas empresas ese papel todavía no tiene dueño. ¿En la vuestra quién lo tiene?
+Y hay una parte que me preocupa más. Antes, si elegías mal a quién ir, el daño tenía un límite porque el equipo no daba para más. Ese límite ya no existe. Una mala decisión se ejecuta igual de rápido y a la misma escala que una buena.
+
+Mil mensajes perfectos a las cuentas equivocadas siguen quemando mil oportunidades, por muy baratos que hayan salido.
+
+Por eso creo que la pregunta importante para una dirección comercial ahora es quién decide dónde se usa toda esa capacidad.
+
+¿En tu empresa quién lo decide?

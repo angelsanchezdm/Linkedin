@@ -57,16 +57,18 @@ Pienso el GTM como un problema de asignación de recursos escasos, no como un pr
 
 ### Cómo escribo
 
-- **Argumento, no lista.** Cada post es un ensayo corto: una tesis, el mecanismo que la explica (por qué pasa), una consecuencia que nadie está mirando y un borde abierto.
-- **Escribo para quien decide presupuesto y equipo** (dirección general, dirección comercial, CRO), no para quien ejecuta. Eso sube el nivel del post y del público.
-- **Vocabulario de estrategia y economía, con naturalidad y poca dosis:** escasez, asignación, coste de oportunidad, efecto de segundo orden, cuello de botella, ventana. Nada de jerga de growth.
-- **Registro sobrio y seguro.** Frases completas, párrafos de 2-4 frases, ninguna frase suelta como póster. Se permite un punto de ironía seca.
-- **Cierre:** la implicación para quien decide, o una pregunta dirigida a dirección que incomode un poco.
-- **Nada de lemas ni eslóganes propios.** Si una frase se recuerda, que sea porque el argumento la sostiene.
+- **Como hablo en una reunión, no como escribo un informe.** Palabras normales: "decidir bien", "a quién ir", "me preocupa", "le doy vueltas". Prohibido el registro erudito: "de modo que", "en absoluto", "conviene", "asimismo", "cabe destacar", "subestimar", "balanza".
+- **Las ideas de estrategia se cuentan con cosas concretas:** en vez de "el coste de ejecutar tiende a cero", "lo que a un SDR le llevaba media mañana, hoy lo hace un agente en un minuto".
+- **Formato LinkedIn (se lee en el móvil):** la primera línea es concreta y se entiende sola (menos de 140 caracteres, lo que se ve antes de "ver más"). Párrafos de 1-3 frases con aire entre ellos. Ningún bloque de más de 3-4 líneas en el móvil.
+- **Líneas cortas sí; tics no.** El espacio en blanco está bien. Lo que sobra son las listas de fragmentos, las anáforas, los contrastes "No X. Y." y las moralejas en paralelo.
+- **Un argumento por post:** algo concreto, qué cambia, la consecuencia que nadie mira y una pregunta a quien decide.
+- **Escribo para quien decide presupuesto y equipo** (dirección general, dirección comercial), en su idioma: decisiones, riesgo, dónde se pierde dinero.
+- **Tono:** tranquilo y seguro. Tuteo al lector. Sin lemas ni eslóganes.
+- **Longitud:** 900-1.300 caracteres.
 
-### Post de referencia del sello (manifiesto)
+### Post de referencia del sello
 
-Ver `linkedin/draft-00-manifiesto.txt`. Es el patrón de nivel: si un borrador suena menos elevado que ese, no sale.
+Ver `linkedin/draft-00-manifiesto.txt` (versión 2, en lenguaje hablado).
 
 ## Mi territorio
 

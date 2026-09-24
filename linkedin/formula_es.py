@@ -83,7 +83,7 @@ def analizar(texto):
     }
     # puntuación de fórmula 0-100 (más alto = más plantilla)
     s = 0
-    s += max(0, m["párrafos de 1 frase (%)"] - 40) * 0.6
+    s += max(0, m["párrafos de 1 frase (%)"] - 60) * 0.5
     s += 6 * m["listas de fragmentos"] + 5 * m["anáforas (3+ líneas)"]
     s += 5 * m["contrastes No X / Y"] + 3 * m["líneas-bisagra con ':'"]
     s += 5 * m["frases-bisagra típicas"] + 1.5 * m["líneas que empiezan por Y/Pero"]
