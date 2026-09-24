@@ -8,10 +8,10 @@ Formato: prioridad | nombre | URL | por qué | cómo comentar
 - B | Jesús Hijas | https://www.linkedin.com/in/jesushijas/ | Pensamiento por encima de herramienta; público directivo en España. Posts de IA y personales. | Solo los de IA / liderazgo, llevándolos a decisiones comerciales.
 - B | Verónica Cacho Blanco (The Revenue) | https://www.linkedin.com/in/veronica-cacho-blanco/ | Intent data y GTM internacional. Par. | Pares.
 
-## Ponentes de Day One (añadir URL de LinkedIn cuando se confirme)
-- B | Javi Consuegra (CRO, Clientify) | {{url}} | Charla "Ventas B2B después de la IA". Mismo tema que el tuyo. | Pares; conversación sobre IA y criterio comercial.
-- B | Pau Llambí (CEO, GTM School) | {{url}} | GTM Engineers. | Aportar el lado de decisión frente a ejecución.
-- B | Juan Pablo Tejela (CEO, Metricool) | {{url}} | Escalar GTM. | Alcance.
-- B | Mar Domínguez (CEO, La Malcriada) | {{url}} | Marca personal en LinkedIn. | Alcance.
-- C | Guillermo Vergara (Head of Sales, WaLead) | {{url}} | Equipo WaLead. | Apoyo.
-- C | Calixto Carbone (CEO, ELSA Consulting) | {{url}} | Agencias GTM. | Pares.
+## Ponentes de Day One (la rutina solo lee los que tienen URL)
+- A | Javi Consuegra (CRO, Clientify; ~59.000 seguidores, LinkedIn Top Sales Voice) | https://www.linkedin.com/in/javierconsuegra/ | Charla "Ventas B2B después de la IA". Mismo tema que el tuyo. | Pares; conversación sobre IA y criterio comercial.
+- B | Pau Llambí (CEO, GTM School) | {{url: sin confirmar; posible https://www.linkedin.com/in/pau-llamb%C3%AD-feliu/ (Marketers Group)}} | GTM Engineers. | Aportar el lado de decisión frente a ejecución.
+- B | Juan Pablo Tejela (CEO, Metricool) | https://www.linkedin.com/in/juanpablotejela/ | Escalar GTM. | Alcance.
+- B | Mar Domínguez Seda (CEO, La Malcriada Agency) | https://www.linkedin.com/in/mar-dominguez-seda-ventasb2b/ | Marca personal en LinkedIn. | Alcance.
+- C | Guillermo Vergara (Head of Sales, WaLead) | {{url: no encontrado}} | Equipo WaLead. | Apoyo.
+- C | Calixto Carbone (CEO, ELSA Consulting) | https://www.linkedin.com/in/soycalixto/ | Agencias GTM. | Pares.
