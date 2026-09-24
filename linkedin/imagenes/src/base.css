@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;700;800&family=Newsreader:ital,opsz,wght@0,6..72,400;1,6..72,400&family=IBM+Plex+Mono:wght@500&display=block');
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1080px;height:1350px;overflow:hidden}
+body{background:#05070A;color:#F3F1EC;font-family:'Schibsted Grotesk',sans-serif;-webkit-font-smoothing:antialiased;position:relative}
+.pad{position:absolute;inset:0;padding:96px 88px 88px;display:flex;flex-direction:column}
+.mono{font-family:'IBM Plex Mono',monospace;font-weight:500;letter-spacing:.14em;text-transform:uppercase}
+.lab{font-size:22px;color:#7D8696}
+.aq{color:#74D6FF}.rd{color:#FF5B3E}.mt{color:#7D8696}
+h1{font-weight:800;letter-spacing:-.035em;line-height:1.02}
+.foot{position:absolute;left:88px;right:88px;bottom:64px;display:flex;justify-content:space-between;font-size:20px;color:#7D8696;border-top:1px solid #222B38;padding-top:24px}
+.glow{position:absolute;inset:0;background:radial-gradient(900px 600px at 85% 0%,rgba(42,107,255,.22),transparent 60%),radial-gradient(700px 500px at 0% 100%,rgba(116,214,255,.10),transparent 60%)}
