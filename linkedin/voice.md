@@ -42,6 +42,44 @@ Comprobar con `python3 linkedin/formula_es.py borrador.txt` (tiene que dar OK, <
 - Empezar muchas líneas por "Y" o "Pero".
 - El ritmo "gurú": afirmación, concesión, giro, lista, reencuadre, moraleja.
 
+## Mi territorio
+
+**El cuándo del GTM.** Todo el mundo habla de a quién venderle (ICP, listas, datos) y qué decirle (copy, IA, personalización). Yo hablo de cuándo: leer el estado del negocio del cliente y decidir si ahora es el momento.
+
+- **Frase de territorio:** "El quién y el qué pueden ser perfectos y llegar a destiempo."
+- **Por qué es mío y no de otro:** los referentes de GTM hablan desde el SaaS de EE. UU. Yo hablo desde negocio físico en España, con temporadas, obras, aperturas, presupuestos anuales y ciclos que no cambian porque lo diga un CRM. Ese contraste es mi ventaja. (El sector se nombra en genérico, sin empresa, clientes ni datos internos.)
+- **Vocabulario propio, siempre el mismo:** momentum, el cuándo, estado de la cuenta, leer la cuenta, ventana, entrar / crecer / proteger. Repetir los mismos términos es lo que construye territorio.
+- **De qué NO hablo:** herramientas por sí mismas, growth hacks, motivación, productividad personal.
+
+## Mi estilo: lo bueno de cada referente, sin sus tics
+
+| Referente | Qué me llevo | Qué dejo |
+|---|---|---|
+| Jacco van der Kooij | Un marco con nombre que se entiende de un vistazo (Quién × Qué × Cuándo; Entrar, crecer, proteger) | Categorías y numeraciones en todos los posts, jerga |
+| Kyle Poyar | Apoyarme en evidencia: un dato o caso público, con fuente, y mi lectura | Bloques numerados largos, tono de informe |
+| Sangram Vajre | Una frase contundente que se recuerde | Cascadas de contrastes, listas agresivas |
+| Yo | La escena concreta de negocio físico, dudar en voz alta, preguntar de verdad | - |
+
+**Regla de mezcla:** cada post usa UNA sola herramienta prestada (un marco, un dato o una frase fuerte) y el resto es prosa mía. Nunca las tres a la vez: eso es exactamente lo que suena a fórmula.
+
+## Cuatro formatos que roto
+
+1. **La escena.** Una situación concreta (un hotel en julio, un responsable nuevo), qué cambia según el momento y lo que no tengo resuelto. Cierre con pregunta.
+2. **El marco.** Un modelo pequeño con nombre, explicado con un ejemplo. Permite una lista de máximo tres elementos, o una línea con flechas si de verdad es un flujo.
+3. **El dato ajeno.** Algo público (un informe, un caso, un post de otro) y mi lectura desde el cuándo. Siempre con fuente; si no la hay, `{{dato + fuente}}`.
+4. **La frase incómoda.** Una afirmación fuerte al principio y después la defiendo con honestidad, incluido dónde falla.
+
+## Cómo trabajamos (porque no me gusta escribir)
+
+Yo pongo la materia prima, la IA le da forma:
+- Un audio o tres líneas: qué vi esta semana, a quién le pasó (sin nombres), qué me llamó la atención.
+- La IA propone formato y borrador según esta guía, pasa `formula_es.py` y me lo enseña.
+- Yo cambio lo que no diría nunca. Cada cambio mío se apunta aquí abajo para que la guía aprenda.
+
+### Cosas que corregí a mano (para aprender de ellas)
+
+- (vacío por ahora)
+
 ## Mis posiciones
 
 1. El lead no es el principio de una oportunidad; es el momento en que conseguimos verla.
