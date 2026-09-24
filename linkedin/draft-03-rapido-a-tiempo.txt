@@ -1,12 +1,12 @@
 Un agente de IA que contesta a un lead en 30 segundos puede estar haciendo daño.
 
-Imagina que un contacto te responde: «Me interesa, pero ahora estamos a tope. Llámame después de temporada.»
+Imagina que un contacto te responde: «Me interesa, pero ahora estamos cerrando el año. Llámame en enero.»
 
 El agente detecta interés y en ese mismo minuto le propone una reunión el jueves a las 10:00. Técnicamente perfecto, muy rápido, y justo lo contrario de lo que esa persona acaba de pedir.
 
 Llevamos años midiendo el tiempo de respuesta como si más rápido fuera siempre mejor, y con la IA esa métrica se ha disparado. Responder rápido y responder a tiempo son cosas distintas. La segunda depende de entender en qué momento está el negocio del otro, no de lo que tarda tu sistema.
 
-Lo curioso es que ese «llámame después de temporada» suele acabar en un recordatorio a 90 días en el CRM. Mientras tanto, en esa cuenta pasan cosas: un nombramiento, una reforma, un presupuesto aprobado. Si solo miras el calendario, te las pierdes.
+Lo curioso es que ese «llámame en enero» suele acabar en un recordatorio a 90 días en el CRM. Mientras tanto, en esa cuenta pasan cosas: un nombramiento, una reforma, un presupuesto aprobado. Si solo miras el calendario, te las pierdes.
 
 El martes en Day One cuento cómo lo estamos pensando nosotros.
 

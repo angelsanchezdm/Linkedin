@@ -13,7 +13,7 @@ JUE 24 - DOM 27  solo interacción (20 min/día) + revisar titular y extracto co
 LUN 28  solo interacción
 MAR 29  8:30  OPINIÓN   #17 Antes y ahora    - Si hacer ya casi no cuesta, lo que cuesta es decidir bien (draft-00, listo)
 MIÉ 30  solo interacción
-JUE 1   8:30  HISTORIA  #1  Llevar la contraria - El hotel en julio: el interés no es oportunidad; momentum = estado del negocio (draft-01, listo). Imagen opcional: diapositiva de ocupación del hotel
+JUE 1   8:30  HISTORIA  #1  Llevar la contraria - Un «no» de marzo no vale lo mismo en octubre; momentum = estado del negocio (draft-01). Imagen: foto frente a película
 VIE 2   solo interacción
 
 ## Semana del 5 oct
@@ -21,7 +21,7 @@ VIE 2   solo interacción
 LUN 5   solo interacción
 MAR 6   8:30  OFERTA    anuncio              - La ponencia del 13 (draft-02). Imagen: portada de la keynote o cartel oficial de WaLead Day One de WaLead, Madrid. Se puede nombrar Culligan y WaLead. Falta: hora, sala, enlace de registro. Enlace en el primer comentario.
 MIÉ 7   solo interacción
-JUE 8   8:30  OPINIÓN   #11 Mito             - Más rápido no es más a tiempo (draft-03). Imagen: captura de la diapositiva del agente
+JUE 8   8:30  OPINIÓN   #11 Mito             - Más rápido no es más a tiempo (draft-03). Imagen: conversación genérica agente / cliente
 VIE 9   solo interacción
 
 ## Semana del 12 oct

@@ -75,7 +75,7 @@ Ver `linkedin/draft-00-manifiesto.txt` (versión 2, en lenguaje hablado).
 **GTM con criterio: primero la estrategia, después las herramientas.** Tenemos más tecnología que nunca (IA, agentes, enrichment, automatización) y la mayoría la usamos como usuarios: hacemos más, más rápido. Mi territorio es el cambio de mentalidad: pasar de usar herramientas a sacarles partido en decisiones que se notan en el negocio. Y bajarlo a tierra, de la estrategia a la herramienta, la acción y el truco concreto.
 
 - **Mi escalera (el marco que repito):** Negocio → Decisión → Herramienta → Acción. Cada post vive en un peldaño, pero siempre se conecta con el de arriba. Un truco sin la decisión que mejora no se publica.
-- **Por qué es mío y no de otro:** los referentes hablan desde el SaaS de EE. UU. Yo hablo desde negocio físico en España (temporadas, obras, aperturas, presupuestos anuales), donde la tecnología solo vale si encaja con cómo funciona el negocio real. El sector se nombra en genérico, sin empresa, clientes ni datos internos.
+- **Por qué es mío y no de otro:** los referentes hablan desde el SaaS de EE. UU. Yo hablo desde negocio físico en España (instalaciones, obras, aperturas, presupuestos anuales), donde la tecnología solo vale si encaja con cómo funciona el negocio real. El sector se nombra en genérico, sin empresa, clientes ni datos internos.
 - **Vocabulario propio, siempre el mismo:** criterio, impacto de negocio, decisión, el cuándo, momentum, estado de la cuenta, entrar / crecer / proteger, orquestar.
 - **De qué NO hablo:** reviews de herramientas sin contexto, growth hacks sueltos, motivación, productividad personal, "10 prompts para…".
 
@@ -100,7 +100,7 @@ Ver `linkedin/draft-00-manifiesto.txt` (versión 2, en lenguaje hablado).
 
 ## Cuatro formatos que roto
 
-1. **La escena.** Una situación concreta (un hotel en julio, un responsable nuevo), qué cambia según el momento y lo que no tengo resuelto. Cierre con pregunta.
+1. **La escena.** Una situación concreta y genérica (un responsable nuevo, un presupuesto aprobado, un "no" de hace meses), qué cambia según el momento y lo que no tengo resuelto. Cierre con pregunta.
 2. **El marco.** Un modelo pequeño con nombre, explicado con un ejemplo. Permite una lista de máximo tres elementos, o una línea con flechas si de verdad es un flujo.
 3. **El dato ajeno.** Algo público (un informe, un caso, un post de otro) y mi lectura desde el cuándo. Siempre con fuente; si no la hay, `{{dato + fuente}}`.
 4. **La frase incómoda.** Una afirmación fuerte al principio y después la defiendo con honestidad, incluido dónde falla.
@@ -125,6 +125,8 @@ Yo pongo la materia prima, la IA le da forma:
 5. La tecnología debe servir para decidir mejor cuándo enviar, no para enviar más. Automatizar un proceso no es construir un sistema GTM.
 
 ## Fuera de límites
+
+- **El caso del piloto de Culligan con WaLead (hoteles, temporada alta, ocupación, cualquier ejemplo de la keynote sobre hostelería) es EXCLUSIVO de la ponencia presencial de Day One. Nunca en LinkedIn ni en ningún medio público, ni antes ni después del evento, ni como ejemplo "hipotético". Tampoco capturas de diapositivas de la keynote salvo la portada.**
 
 - **Temas de los que no publico:** nada interno de Culligan: estrategia, resultados, iniciativas, equipos, procesos, herramientas, cifras ni proyectos. Culligan no aparece en los posts.
 - **Clientes o cifras que no puedo nombrar:** ningún cliente real, ni con nombre ni con detalles que permitan identificarlo o dar pistas a la competencia (sector + región + tamaño + momento juntos). Ninguna cifra propia.

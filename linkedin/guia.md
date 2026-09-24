@@ -1,7 +1,7 @@
 # Guía LinkedIn hasta Day One (13 oct 2026, Madrid)
 
 Ponencia: "Cómo Culligan montó su Sales-Led GTM en WaLead", en Day One de WaLead (Madrid, 13 oct), con José Elías entre los ponentes.
-Se puede nombrar a Culligan y a WaLead. Siguen prohibidos los datos internos: cifras, clientes y resultados del piloto.
+Se puede nombrar a Culligan y a WaLead. Siguen prohibidos los datos internos: cifras, clientes y resultados del piloto. El caso del piloto en hoteles es exclusivo de la ponencia presencial: nunca en LinkedIn.
 
 Reparto: tú publicas y comentas en LinkedIn; Claude escribe, investiga y prepara. Nada se publica sin que tú lo pegues.
 
@@ -68,7 +68,7 @@ Claude puede sacar esa lista automáticamente leyendo los comentarios con WaLead
 
 ### Semana del 28 sep
 - **Mar 29, 8:30 · post 1 (opinión):** "Si hacer ya casi no cuesta, lo que cuesta es decidir bien". Listo en `draft-00-manifiesto.txt`.
-- **Jue 1, 8:30 · post 2 (escena):** el hotel en julio: interés no es oportunidad. Listo en `draft-01-momentum.txt`.
+- **Jue 1, 8:30 · post 2 (escena):** un «no» de marzo no vale lo mismo en octubre. Listo en `draft-01-no-de-marzo.txt`.
 - **Resto de días:** rutina de comentarios.
 
 ### Semana del 5 oct
