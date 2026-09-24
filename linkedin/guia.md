@@ -19,7 +19,7 @@ Activa la campana (🔔) en el perfil de cada uno para recibir un aviso cuando p
 | **Mencía Jornet** (cofundadora, CPO de WaLead) | Producto. Es la otra cara visible del equipo. | Seguir y comentar posts de producto desde el ángulo "para qué decisión sirve esto". | buscar en LinkedIn |
 | **Roberto Mulas** (cofundador de WaLead) | Tercer fundador. | Seguir. | buscar en LinkedIn |
 | **Página de empresa WaLead** | Van a anunciar ponentes y agenda. | Seguir. Compartir (repost con una frase tuya) el anuncio de tu ponencia. | linkedin.com/company (buscar "WaLead") |
-| **José Elías** (Audax Renovables, ponente de Day One) | Audiencia enorme de empresarios. Comparte cartel contigo. | Comentar solo sus posts sobre Day One o sobre gestión comercial, y en los primeros minutos. Nada de halagos: una idea. | linkedin.com/in/jose-elias-navarro |
+| **José Elías** (Audax Renovables, ponente de Day One) | Audiencia enorme: sus posts de septiembre tienen 700-1.600 reacciones y hasta 290 comentarios. Comparte cartel contigo. Escribe mucho de IA y de "saber cuándo dar el paso". | Comentar solo sus posts sobre Day One o sobre gestión comercial, y en los primeros minutos. Nada de halagos: una idea. | linkedin.com/in/jose-elias-navarro |
 | **Resto de ponentes** | Comparten cartel y audiencia. | Añadirlos en cuanto WaLead publique la agenda. | pendiente |
 
 ### Referentes alineados (alcance y pares)
@@ -27,7 +27,8 @@ Activa la campana (🔔) en el perfil de cada uno para recibir un aviso cuando p
 | Quién | Por qué | Qué hacer | Enlace |
 |---|---|---|---|
 | **Jesús Hijas** | Pensamiento por encima de la herramienta en la era de la IA; público de dirección en España. | 1-2 comentarios por semana llevando su idea a decisiones comerciales. Citarlo si usas su concepto. | linkedin.com/in/jesushijas |
-| **Juan Liedo** (fundador de The Revenue, Bilbao/Madrid) | GTM B2B basado en cuentas "en proceso real de compra": muy cerca de tu idea del cuándo. Publicó el estudio "Estado del GTM B2B en España 2025" (72 empresas). | Comentar desde tu ángulo. Su estudio sirve de "dato ajeno" citado con fuente. Posible par natural. | buscar "Juan Liedo The Revenue" |
+| **Juan Antonio Liedo** (fundador de The Revenue, 15.800 seguidores, embajador de GTM Partners) | Su post del 17 sep dice casi tu tesis: "«Tenemos intent data» es un atributo. «Entras en la cuenta justo cuando está evaluando comprar» es valor." Sus posts tienen poco engagement, así que te lee seguro. Publicó "Estado del GTM B2B en España 2025" (72 empresas). | Par natural. Comentar ya (ver abajo). Su estudio sirve de dato con fuente. | linkedin.com/in/juanliedo |
+| **Verónica Cacho Blanco** (The Revenue) | GTM con intent data. | Par. | linkedin.com/in/veronica-cacho-blanco |
 | **Toni Gómez** | Prospección B2B y social selling en España. | Par. Comentar cuando hable de prospección, aportando el cuándo. | buscar en LinkedIn |
 | **Félix Fernández Sánchez** | Top 20 de ventas en España (Favikon 2026); social selling B2B. | Par / alcance. | buscar en LinkedIn |
 | **Enrique de Mora** | Top 20 de ventas en España (Favikon 2026); estrategia comercial. | Alcance. | buscar en LinkedIn |
