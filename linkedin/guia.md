@@ -28,10 +28,11 @@ Activa la campana (🔔) en el perfil de cada uno para recibir un aviso cuando p
 |---|---|---|---|
 | **Jesús Hijas** | Pensamiento por encima de la herramienta en la era de la IA; público de dirección en España. | 1-2 comentarios por semana llevando su idea a decisiones comerciales. Citarlo si usas su concepto. | linkedin.com/in/jesushijas |
 | **Juan Antonio Liedo** (fundador de The Revenue, 15.800 seguidores, embajador de GTM Partners) | Su post del 17 sep dice casi tu tesis: "«Tenemos intent data» es un atributo. «Entras en la cuenta justo cuando está evaluando comprar» es valor." Sus posts tienen poco engagement, así que te lee seguro. Publicó "Estado del GTM B2B en España 2025" (72 empresas). | Par natural. Comentar ya (ver abajo). Su estudio sirve de dato con fuente. | linkedin.com/in/juanliedo |
-| **Verónica Cacho Blanco** (The Revenue) | GTM con intent data. | Par. | linkedin.com/in/veronica-cacho-blanco |
-| **Toni Gómez** | Prospección B2B y social selling en España. | Par. Comentar cuando hable de prospección, aportando el cuándo. | buscar en LinkedIn |
-| **Félix Fernández Sánchez** | Top 20 de ventas en España (Favikon 2026); social selling B2B. | Par / alcance. | buscar en LinkedIn |
-| **Enrique de Mora** | Top 20 de ventas en España (Favikon 2026); estrategia comercial. | Alcance. | buscar en LinkedIn |
+| **Xavier Marcet** (Lead to Change, profesor UPF, presidente de la Barcelona Drucker Society) | Estrategia, crecimiento y management; escribe sobre el impacto de la IA en las empresas. Público de dirección general. | Alcance. Comentar cuando hable de estrategia, decisiones o IA en la empresa, desde el lado comercial. | linkedin.com/in/xavier-marcet-5580681 |
+| **Javier Megías** (Managing Partner EMEA, Plug and Play) | Estrategia, modelos de negocio, clientes y crecimiento. Mezcla empresa grande, pyme y startup. | Alcance / par intelectual. Aportar la mirada de negocio físico. | linkedin.com/in/javiermegiasterol |
+| **Enrique Dans** (profesor de Innovación, IE) | Tecnología y estrategia corporativa; adopción real de la IA en empresas. | Alcance. Solo cuando el post toque adopción de IA en la empresa. | linkedin.com/in/edans |
+| **Sangram Vajre** (GTM Partners, autor de *MOVE*) | Referente mundial de GTM como sistema de empresa ("¿quién es dueño del GTM?"). Juan Liedo es embajador suyo. | Seguir para aprender. Comentar en inglés solo si aportas algo muy concreto. | linkedin.com/in/sangramvajre |
+| **Kyle Poyar** (Growth Unhinged) | Estrategia de GTM, pricing y crecimiento con datos. | Seguir para aprender; fuente de datos citables. | linkedin.com/in/kyle-poyar |
 
 ### Decisores (2-5)
 

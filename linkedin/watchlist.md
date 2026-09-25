@@ -6,7 +6,13 @@ Formato: prioridad | nombre | URL | por qué | cómo comentar
 - A | Juan Antonio Liedo (The Revenue) | https://www.linkedin.com/in/juanliedo/ | Su tesis es casi la tuya ("entras en la cuenta justo cuando está evaluando comprar"). Poco engagement (5-20 reacciones): te lee seguro. GTM Partners Ambassador. | Conversación de pares sobre señales, intent data, posicionamiento. Preguntas reales.
 - A | Walid Amarir (CEO WaLead, organizador Day One) | https://www.linkedin.com/in/walidamarir/ | Organiza Day One; 9.500 seguidores. | Todo lo de Day One. Apoyo visible y concreto.
 - B | Jesús Hijas | https://www.linkedin.com/in/jesushijas/ | Pensamiento por encima de herramienta; público directivo en España. Posts de IA y personales. | Solo los de IA / liderazgo, llevándolos a decisiones comerciales.
-- B | Verónica Cacho Blanco (The Revenue) | https://www.linkedin.com/in/veronica-cacho-blanco/ | Intent data y GTM internacional. Par. | Pares.
+
+## Referentes de estrategia y negocio
+- B | Xavier Marcet (Lead to Change) | https://www.linkedin.com/in/xavier-marcet-5580681/ | Estrategia, management, IA en la empresa. Público de dirección. | Solo posts de estrategia/decisiones/IA en empresa; aportar desde el lado comercial y de negocio.
+- B | Javier Megías (Plug and Play) | https://www.linkedin.com/in/javiermegiasterol/ | Estrategia, modelos de negocio, crecimiento. | Aportar la mirada de negocio físico/tradicional.
+- C | Enrique Dans (IE) | https://www.linkedin.com/in/edans/ | Adopción de IA en empresas. | Solo si el post va de IA aplicada a la empresa.
+- C | Sangram Vajre (GTM Partners) | https://www.linkedin.com/in/sangramvajre/ | GTM como sistema de empresa. Inglés. | Normalmente solo leer; comentar en inglés si hay algo muy concreto.
+- C | Kyle Poyar (Growth Unhinged) | https://www.linkedin.com/in/kyle-poyar/ | GTM, pricing, datos. Inglés. | Normalmente solo leer; útil como fuente citable.
 
 ## Ponentes de Day One
 - A | Javi Consuegra (CRO, Clientify; ~59.000 seguidores, LinkedIn Top Sales Voice) | https://www.linkedin.com/in/javierconsuegra/ | Charla "Ventas B2B después de la IA". Mismo tema que el tuyo. | Pares; conversación sobre IA y criterio comercial.
