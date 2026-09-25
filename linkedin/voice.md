@@ -85,6 +85,7 @@ Ver `linkedin/draft-00-manifiesto.txt` (versión 2, en lenguaje hablado).
 
 - Solo se comenta un post si tiene sustancia y Ángel puede aportar algo propio. Posts motivacionales, genéricos o de autopromoción: no se comentan (como mucho, reacción). Mejor 1 comentario bueno que 4 de relleno.
 - Antes de redactar un comentario hay que leer el post entero, nunca un resumen.
+- En los hilos: aportar una vez y cerrar con cordialidad. No alargar debates, no contradecir por contradecir, no buscar la última palabra. Si el otro da la razón y matiza, basta con un "me gusta" o una línea de cierre.
 
 ## Mi territorio
 
