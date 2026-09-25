@@ -68,11 +68,11 @@ Claude puede sacar esa lista automáticamente leyendo los comentarios con WaLead
 
 ### Semana del 28 sep
 - **Mar 29, 8:30 · post 1 (opinión):** "Si hacer ya casi no cuesta, lo que cuesta es decidir bien". Listo en `draft-00-manifiesto.txt`.
-- **Jue 1, 8:30 · post 2 (escena):** un «no» de marzo no vale lo mismo en octubre. Listo en `draft-01-no-de-marzo.txt`.
+- **Jue 1, 8:30 · post 2 (anuncio, lo pide WaLead entre el 28 sep y el 3 oct):** `draft-02-anuncio-dayone.txt`. Imágenes: 1) `imagenes/2026-10-01_cartel-dayone.jpg`, 2) `imagenes/2026-10-01_ponente-oficial-post.webp`. Etiquetar a WaLead y a los ponentes que se nombran. Primer comentario: https://www.walead.ai/day-one?utm_source=angel-sanchez&utm_medium=ponente&utm_campaign=dayone
 - **Resto de días:** rutina de comentarios.
 
 ### Semana del 5 oct
-- **Mar 6, 8:30 · post 3 (anuncio):** la ponencia en Day One, de qué va y para quién. Etiquetar a WaLead y a Walid. Enlace de registro en el primer comentario. Pedir a WaLead que lo comparta.
+- **Mar 6, 8:30 · post 3:** un «no» de marzo no vale lo mismo en octubre. `draft-01-no-de-marzo.txt` + `imagenes/2026-10-06_no-de-marzo.png`.
 - **Jue 8, 8:30 · post 4 (opinión):** más rápido no es más a tiempo. Cierre: "el martes lo cuento en Day One".
 - **Resto de días:** rutina. Esta semana, comentar a los ponentes es prioridad.
 

@@ -13,16 +13,21 @@ JUE 24 - DOM 27  solo interacción (20 min/día) + revisar titular y extracto co
 LUN 28  solo interacción
 MAR 29  8:30  OPINIÓN   #17 Antes y ahora    - Si hacer ya casi no cuesta, lo que cuesta es decidir bien (draft-00, listo)
 MIÉ 30  solo interacción
-JUE 1   8:30  HISTORIA  #1  Llevar la contraria - Un «no» de marzo no vale lo mismo en octubre; momentum = estado del negocio (draft-01). Imagen: foto frente a película
+JUE 1   8:30  OFERTA    anuncio              - La ponencia del 13 (draft-02). Adelantado a esta semana a petición de WaLead (piden post entre 28 sep y 3 oct). 2 imágenes: 1) cartel oficial Day One, 2) creatividad oficial "Ponente confirmado". Primer comentario: https://www.walead.ai/day-one?utm_source=angel-sanchez&utm_medium=ponente&utm_campaign=dayone
 VIE 2   solo interacción
 
 ## Semana del 5 oct
 
 LUN 5   solo interacción
-MAR 6   8:30  OFERTA    anuncio              - La ponencia del 13 (draft-02). Post de 2 imágenes: 1) cartel oficial de Day One (versión con MI CHARLA en la tarjeta de Ángel), 2) imagenes/2026-10-06_anuncio-dayone.png. Primer comentario: https://www.walead.ai/day-one Day One de WaLead, Madrid. Se puede nombrar Culligan y WaLead. Teatro Sofía, 13:00, walead.ai/day-one. Enlace en el primer comentario.
+MAR 6   8:30  HISTORIA  #1  Llevar la contraria - Un «no» de marzo no vale lo mismo en octubre (draft-01). Imagen: imagenes/2026-10-06_no-de-marzo.png
 MIÉ 7   solo interacción
 JUE 8   8:30  OPINIÓN   #11 Mito             - Más rápido no es más a tiempo (draft-03). Imagen: conversación genérica agente / cliente
 VIE 9   solo interacción
+
+## Pendiente WaLead
+
+NEWSLETTER antes del 10 oct (piden una). Pendiente de confirmar si Ángel tiene newsletter de LinkedIn.
+Enlace con UTM para todo lo que se comparta: https://www.walead.ai/day-one?utm_source=angel-sanchez&utm_medium=ponente&utm_campaign=dayone
 
 ## Semana del 12 oct
 
