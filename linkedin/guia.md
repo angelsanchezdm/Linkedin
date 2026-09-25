@@ -63,7 +63,7 @@ Claude puede sacar esa lista automáticamente leyendo los comentarios con WaLead
 ### Semana del 24 sep: preparación
 - **Hoy o mañana:** revisar titular y "Acerca de" con `/li-profile`. La gente que te busque desde Day One tiene que encontrar el mismo mensaje que en la ponencia.
 - **Hoy o mañana:** seguir y activar la campana a todos los de la sección 1.
-- **Hecho:** agenda, hora (13:00), Teatro Sofía, enlace de entradas y cartel oficial ya los tenemos. Solo queda preguntar a WaLead si compartirán tu anuncio del martes 6.
+- **Hecho:** agenda, hora (13:00), Teatro Sofía, enlaces, creatividades oficiales y confirmación a WaLead (post el jueves 1). Nada pendiente con WaLead.
 - **Todos los días:** rutina de comentarios.
 
 ### Semana del 28 sep
