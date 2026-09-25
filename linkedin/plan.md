@@ -26,7 +26,7 @@ VIE 9   solo interacción
 
 ## Pendiente WaLead
 
-NEWSLETTER antes del 10 oct (piden una). Pendiente de confirmar si Ángel tiene newsletter de LinkedIn.
+Newsletter: descartada (Ángel no tiene newsletter).
 Enlace con UTM para todo lo que se comparta: https://www.walead.ai/day-one?utm_source=angel-sanchez&utm_medium=ponente&utm_campaign=dayone
 
 ## Semana del 12 oct
