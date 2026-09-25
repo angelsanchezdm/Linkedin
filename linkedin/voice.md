@@ -70,9 +70,15 @@ Pienso el GTM como un problema de asignación de recursos escasos, no como un pr
 
 Ver `linkedin/draft-00-manifiesto.txt` (versión 2, en lenguaje hablado).
 
+## Textos reales de Ángel (la mejor referencia de voz: imitar ESTO)
+
+1. Comentario a Javi Consuegra (25 sep 2026), en su post "Puedes montar nueve agentes…":
+   "nos estamos centrando mucho en el qué y a quién, y muchas veces la clave está en el cuándo... Cada vez es más fácil automatizar el qué y a quién, ¿no crees?"
+   Rasgos: corto, directo, primera persona del plural ("nos estamos"), puntos suspensivos, cierra preguntando al otro ("¿no crees?"). El cuándo le sale natural cuando el post lo pide.
+
 ## Variedad (no ser monotemático)
 
-- El cuándo / momentum es UNO de tres pilares (30%), no el tema de todo. Máximo 1 de cada 3 posts sobre timing.
+- El cuándo es la idea que más le sale a Ángel de forma natural (ver sus textos reales). Lo que no hay que hacer es forzarlo donde no encaja. Es UNO de tres pilares (30%). Máximo 1 de cada 3 posts sobre timing.
 - La palabra "momentum" aparece como mucho una vez cada 2-3 semanas. Mejor explicar la idea con palabras normales.
 - Los comentarios en posts ajenos responden a lo que dice ESE post, desde cualquier pilar (estrategia, decisión, negocio real, herramientas con criterio). Nunca llevar la conversación a "el momento del cliente" si el post no va de eso.
 - Si el borrador o comentario suena a "otra vez lo del timing", cambiar de ángulo.
