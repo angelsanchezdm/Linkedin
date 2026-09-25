@@ -77,6 +77,9 @@ Ver `linkedin/draft-00-manifiesto.txt` (versión 2, en lenguaje hablado).
 - Los comentarios en posts ajenos responden a lo que dice ESE post, desde cualquier pilar (estrategia, decisión, negocio real, herramientas con criterio). Nunca llevar la conversación a "el momento del cliente" si el post no va de eso.
 - Si el borrador o comentario suena a "otra vez lo del timing", cambiar de ángulo.
 
+- Solo se comenta un post si tiene sustancia y Ángel puede aportar algo propio. Posts motivacionales, genéricos o de autopromoción: no se comentan (como mucho, reacción). Mejor 1 comentario bueno que 4 de relleno.
+- Antes de redactar un comentario hay que leer el post entero, nunca un resumen.
+
 ## Mi territorio
 
 **GTM con criterio: primero la estrategia, después las herramientas.** Tenemos más tecnología que nunca (IA, agentes, enrichment, automatización) y la mayoría la usamos como usuarios: hacemos más, más rápido. Mi territorio es el cambio de mentalidad: pasar de usar herramientas a sacarles partido en decisiones que se notan en el negocio. Y bajarlo a tierra, de la estrategia a la herramienta, la acción y el truco concreto.
