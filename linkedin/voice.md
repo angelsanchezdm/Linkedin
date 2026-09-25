@@ -134,6 +134,8 @@ Yo pongo la materia prima, la IA le da forma:
 
 ## Mis posiciones
 
+0. Detectar la señal buena NO es fácil. Las señales relevantes casi nunca están en una base de datos ni llegan por una alerta; hay que saber qué cambio buscar, y eso sale de la estrategia y de entender el negocio del cliente. Nunca escribir que "detectar señales es lo fácil".
+
 1. El lead no es el principio de una oportunidad; es el momento en que conseguimos verla.
 2. El ICP responde a "dónde mirar", no a "cuándo aparecer". Llevamos años pidiéndole demasiado.
 3. Buena parte del GTM moderno automatiza el problema equivocado: ha cambiado la ejecución, no el modelo.
