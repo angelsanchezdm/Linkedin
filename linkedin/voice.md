@@ -23,7 +23,7 @@ Mientras no haya textos reales míos (emails, notas, audios transcritos), escrib
 - **Pensar en voz alta:** reconocer lo que no tengo resuelto, una duda abierta, un matiz. Paréntesis y alguna subordinada larga están bien.
 - **Primera persona real** ("llevo semanas dándole vueltas", "tengo la sensación"), pero sin inventar anécdotas: si hace falta una historia, pedírmela.
 - **Cierre:** una pregunta concreta que solo este post puede hacer, o una frase normal. Nunca un aforismo en paralelo.
-- **Tacos:** no. **Emoji:** no. **Hashtags:** no.
+- **Tacos:** ninguno gordo (ver "Tensión y desparpajo"). **Emoji:** no. **Hashtags:** no.
 - **Longitud:** 900-1.400 caracteres.
 
 ### Prohibido (tics de fórmula IA en español)
@@ -131,7 +131,18 @@ Yo pongo la materia prima, la IA le da forma:
 
 ### Cosas que corregí a mano (para aprender de ellas)
 
-- (vacío por ahora)
+- 14/10: Ángel pide posts con más tensión, más naturales y abiertos, con alguna expresión coloquial o políticamente incorrecta suave, "que es como hablo en realidad". Ver sección "Tensión y desparpajo".
+
+## Tensión y desparpajo (pedido por Ángel el 14/10/2026)
+
+Objetivo: que los posts suenen a Ángel hablando, con una postura que alguien pueda discutir. Nadie puede garantizar que un post sea viral; lo que sí se puede es que haya algo que merezca respuesta.
+
+- **Tensión de ideas, no de personas.** La primera línea o el cierre afirman algo discutible sobre una práctica del sector (el outbound masivo, el ICP, el dashboard del lunes), nunca sobre una persona, empresa concreta o colectivo.
+- **Una expresión coloquial o fuerte por post, como mucho.** De las que se oyen en una reunión ("una tontería", "nos hemos flipado", "es un sindiós", "a ojo de buen cubero", "tragar"). Sin insultos, sin tacos gordos, sin chistes sobre colectivos, sin política. Si dudas entre dos, la suave.
+- **Reconocer el coste de la postura.** Una frase tipo "puede que me equivoque" o "esto no vale para todos" suma credibilidad y tensión a la vez. Es el "pensar en voz alta" de siempre.
+- **Cierre con una pregunta que obligue a posicionarse** ("¿Lo veis igual o soy yo el raro?"), no con una pregunta de cortesía.
+- **Seguimos sin hacer:** clickbait vacío, números inventados, atacar a competidores, nada de Culligan interno ni el piloto de hoteles, y los tics de `formula_es.py` (tiene que dar OK).
+- **Regla de orden:** primero tiene que ser verdad y defendible; después, discutible.
 
 ## Mis posiciones
 
