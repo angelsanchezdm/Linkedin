@@ -1,3 +1,5 @@
+> **Desde el 15 oct 2026 el calendario y los recordatorios están en `plan.md`. La sección 3 de esta guía es histórica (hasta Day One).**
+
 # Guía LinkedIn hasta Day One (13 oct 2026, Madrid)
 
 Ponencia: "Cómo Culligan montó su Sales-Led GTM en WaLead", en Day One de WaLead (Madrid, 13 oct), con José Elías entre los ponentes.
