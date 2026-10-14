@@ -23,7 +23,7 @@ Antes del 20 oct: pasar estadísticas de los 6 posts publicados para fijar la l�
 
 MIÉ 14  PUBLICADO  resumen de Day One (las ocho versiones)
 JUE 15  sin post. Responder todos los comentarios del resumen. DMs de agradecimiento: Javi Consuegra, Mar Domínguez, Luis, equipo WaLead (/li-dm)
-VIE 16  8:30  ENCUESTA  "En tu equipo, ¿quién decide dónde se usa la capacidad que da la IA?" Opciones: Dirección comercial / Marketing / Operaciones-RevOps / Nadie en concreto. (Alimenta la prueba del 27 oct)
+VIE 16  8:30  ENCUESTA  draft-06-encuesta.txt. Encuesta de LinkedIn, duración 1 semana. Pregunta: "En tu empresa, ¿quién decide dónde se usa la capacidad comercial que da la IA?" Opciones: Dirección comercial / Marketing / Operaciones / RevOps / Nadie en concreto. Sin imagen. (Alimenta la prueba del 27 oct)
 
 ## Semana del 19 oct · "Del estado al cambio"
 
