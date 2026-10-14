@@ -23,7 +23,7 @@ Mientras no haya textos reales míos (emails, notas, audios transcritos), escrib
 - **Pensar en voz alta:** reconocer lo que no tengo resuelto, una duda abierta, un matiz. Paréntesis y alguna subordinada larga están bien.
 - **Primera persona real** ("llevo semanas dándole vueltas", "tengo la sensación"), pero sin inventar anécdotas: si hace falta una historia, pedírmela.
 - **Cierre:** una pregunta concreta que solo este post puede hacer, o una frase normal. Nunca un aforismo en paralelo.
-- **Tacos:** ninguno gordo (ver "Tensión y desparpajo"). **Emoji:** no. **Hashtags:** no.
+- **Tacos:** ninguno gordo (ver "Tensión y desparpajo"). **Emoji:** como mucho uno, y solo si Ángel lo usaría (🤣 en una confesión graciosa). **Hashtags:** en posts de evento, 3-4 al final; en el resto, ninguno.
 - **Longitud:** 900-1.400 caracteres.
 
 ### Prohibido (tics de fórmula IA en español)
@@ -75,6 +75,10 @@ Ver `linkedin/draft-00-manifiesto.txt` (versión 2, en lenguaje hablado).
 1. Comentario a Javi Consuegra (25 sep 2026), en su post "Puedes montar nueve agentes…":
    "nos estamos centrando mucho en el qué y a quién, y muchas veces la clave está en el cuándo... Cada vez es más fácil automatizar el qué y a quién, ¿no crees?"
    Rasgos: corto, directo, primera persona del plural ("nos estamos"), puntos suspensivos, cierra preguntando al otro ("¿no crees?"). El cuándo le sale natural cuando el post lo pide.
+
+2. Post publicado por Ángel (14 oct 2026), resumen de Day One, con su toque sobre mi borrador. Es la MEJOR referencia de voz y de tensión:
+   Abre con una confesión que se ríe de sí mismo ("Confieso que... hice ocho versiones de mi presentación 🤣"), remata con un giro corto ("el problema de hacer ocho versiones: que existen las otras siete"), cuenta la anécdota con detalles propios ("los aplausos más rápidos de mi carrera", "charla a pelo"), agradece por su nombre ("GRACIAS Luis"), conecta el accidente con su tesis ("mi charla iba de que el momento lo cambia todo. No se me ocurre mejor demostración en directo"), aporta una prueba de que el mensaje llegó ("me lo dijisteis varios al terminar"), baja la idea a lo observado ("decenas de conversaciones que todavía no son un lead en ningún CRM...") y cierra con un guiño a la imagen ("¿verdad?", "con la versión buena"). Termina con hashtags del evento (#DayOne #WaLead #SalesLed #GTM) y un emoji al inicio.
+   Lo que cambió respecto al borrador de la IA: quitó mis chistes inventados ("aplauso de pena", "stand-up de GTM"), quitó la pregunta de cierre y puso en el centro una broma que sale de un hecho real (las ocho versiones). Lo gracioso viene de lo que pasó, no de adornos.
 
 ## Variedad (no ser monotemático)
 
@@ -131,7 +135,7 @@ Yo pongo la materia prima, la IA le da forma:
 
 ### Cosas que corregí a mano (para aprender de ellas)
 
-- 14/10: Ángel pide posts con más tensión, más naturales y abiertos, con alguna expresión coloquial o políticamente incorrecta suave, "que es como hablo en realidad". Ver sección "Tensión y desparpajo".
+- 14/10: Ángel pide posts con más tensión, más naturales y abiertos, con alguna expresión coloquial o políticamente incorrecta suave, "que es como hablo en realidad". Ver sección "Tensión y desparpajo". Su versión publicada del resumen de Day One (texto real 2) cambió mis chistes inventados por una broma sacada de un hecho real y añadió emoji y hashtags de evento.
 
 ## Tensión y desparpajo (pedido por Ángel el 14/10/2026)
 
@@ -141,6 +145,7 @@ Objetivo: que los posts suenen a Ángel hablando, con una postura que alguien pu
 - **Una expresión coloquial o fuerte por post, como mucho.** De las que se oyen en una reunión ("una tontería", "nos hemos flipado", "es un sindiós", "a ojo de buen cubero", "tragar"). Sin insultos, sin tacos gordos, sin chistes sobre colectivos, sin política. Si dudas entre dos, la suave.
 - **Reconocer el coste de la postura.** Una frase tipo "puede que me equivoque" o "esto no vale para todos" suma credibilidad y tensión a la vez. Es el "pensar en voz alta" de siempre.
 - **Cierre con una pregunta que obligue a posicionarse** ("¿Lo veis igual o soy yo el raro?"), no con una pregunta de cortesía.
+- **Receta que funciona (ver texto real 2):** confesión o autoburla al principio, un giro de una línea, anécdota con un detalle concreto que solo él podría contar, vincular el accidente o la escena con su tesis, una prueba de que la idea llegó, y un cierre ligero. La broma sale de un hecho real, nunca de un chiste fabricado por la IA.
 - **Seguimos sin hacer:** clickbait vacío, números inventados, atacar a competidores, nada de Culligan interno ni el piloto de hoteles, y los tics de `formula_es.py` (tiene que dar OK).
 - **Regla de orden:** primero tiene que ser verdad y defendible; después, discutible.
 
