@@ -28,8 +28,8 @@ VIE 16  8:30  ENCUESTA  draft-06-encuesta.txt. Encuesta de LinkedIn, duración 1
 ## Semana del 19 oct · "Del estado al cambio"
 
 LUN 19  solo interacción + invitar a conectar a quien conociste en Day One
-MAR 20  8:30  OPINIÓN   #1  Llevar la contraria  - "El CRM registra estados. El negocio de tu cliente produce cambios." El dashboard del lunes mira la foto; lo que mueve una compra pasa fuera de él
-JUE 22  8:30  ENSEÑAR   #21 Valor directo        - Las 20 cuentas que caben en la cabeza de un buen comercial: una revisión semanal de 15 minutos (qué ha cambiado en cada una y qué decides)
+MAR 20  8:30  VÍDEO     highlights Day One   - draft-07-video-highlights.txt. Vídeo nativo de 1:18 (subido a LinkedIn, no enlace). Subtítulos incrustados. Etiquetar a WaLead. ANTES: comprobar que el vídeo no muestra nada del piloto ni de hoteles
+JUE 22  8:30  OPINIÓN   #1  Llevar la contraria  - "El CRM registra estados. El negocio de tu cliente produce cambios." El dashboard del lunes mira la foto; lo que mueve una compra pasa fuera de él
 
 ## Semana del 26 oct · "Prueba propia"
 
@@ -38,7 +38,7 @@ JUE 29  8:30  OPINIÓN   #11 Mito                 - "Orquestar también es saber
 
 ## Semana del 2 nov · "Lo que pasó después"
 
-MAR 3   8:30  HISTORIA  #9  Arranque en frío     - Una conversación real de Day One o de después (anonimizada) que todavía no es un lead en ningún CRM. NECESITA 3 líneas de Ángel
+MAR 3   8:30  HISTORIA  #9  Arranque en frío     - Una conversación real de Day One o de después (anonimizada) que todavía no es un lead en ningún CRM. NECESITA 3 líneas de Ángel. Si no llegan: ENSEÑAR "Las 20 cuentas que caben en la cabeza de un buen comercial" (revisión semanal de 15 min)
 JUE 5   8:30  CARRUSEL  marco                    - "Una cuenta no deja de cambiar cuando firma": entrar, crecer, proteger. Formato documento/PDF (/li-carousel)
 
 ## Semana del 9 nov · "Criterio aplicado a la IA"
@@ -61,7 +61,9 @@ JUE 26  8:30  HISTORIA                           - Materia prima de Ángel de es
 MAR 1   8:30  OPINIÓN   #18 Regla impopular      - Algo en lo que Ángel ha cambiado de opinión desde Day One
 JUE 3   8:30  RESUMEN                            - Tres ideas de GTM que me llevo a 2027 (enlaza con lo mejor del trimestre)
 
-## Pista paralela: cápsulas de vídeo (si llega el vídeo de la ponencia)
+## Pista paralela: cápsulas de vídeo
+
+Ya hay un vídeo de highlights de 1:18 (publicación el 20 oct). Si llega la grabación completa, se cortan cápsulas con estas reglas:
 
 - Antes de nada: permiso de WaLead para usar el vídeo y visto bueno interno si Culligan lo requiere.
 - Cortar 4-6 cápsulas de 45-90 s, una idea por cápsula, con subtítulos. EXCLUIR todo lo del piloto, hoteles, temporada u ocupación.
