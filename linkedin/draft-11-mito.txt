@@ -1,0 +1,9 @@
+Confieso que durante años pensé que un buen sistema comercial era el que nunca paraba.
+
+Más secuencias, más avisos, más tareas en el CRM. Y con la IA la tentación es todavía mayor, porque tocar a una cuenta cuesta casi cero: lo que a un SDR le llevaba media mañana, hoy lo hace un agente en un minuto.
+
+Por eso me preocupa que casi nadie hable de lo contrario. Imagina una cuenta que acaba de decir que no, o que está en pleno cambio de equipo, o que simplemente no tiene nada nuevo desde hace tres años. Un sistema que "orquesta" bien también decide que a esa cuenta, esta semana, no se la toca (y eso casi nunca sale en un dashboard).
+
+Puede que me equivoque y que más volumen siga funcionando en algunos negocios. Pero a mí me parece que automatizar sin poder callar es un sindiós.
+
+¿Vosotros tenéis a alguien o algo que decida cuándo no tocar nada, o todo lo que se puede enviar se envía?
